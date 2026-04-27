@@ -31,9 +31,9 @@ PawPal+ helps pet owners manage daily care routines and get grounded, trustworth
 ## 🎥 Demo Walkthrough
 
 <video controls width="640">
-  <source src="./demo_final.mov" type="video/quicktime">
+  <source src="./demo_final.mp4" type="video/mp4">
   Your browser does not support embedded videos.
-  <a href="./demo_final.mov">Download / watch the demo video</a>.
+  <a href="./demo_final.mp4">Download / watch the demo video</a>.
 </video>
 
 > If the embedded video does not play on GitHub, open the link above to download it.
